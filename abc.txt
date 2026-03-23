@@ -1,4 +1,5 @@
 Hello world
+Conflict resolved
+Welcome to Devops
 
-Welcome to main
 
